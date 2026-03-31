@@ -168,13 +168,13 @@ const diya = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!--<div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&theme=tokyonight"/>
 
-</div>
+</div>-->
 
 <div align="center">
 <img width="60%" src="https://streak-stats.demolab.com?user=Diyajain3&theme=tokyonight"/>
@@ -182,13 +182,13 @@ const diya = {
 
 ---
 
-## 🏅 GitHub Trophies
+<!--## 🏅 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight" />
 </div>
 
----
+--- -->
 
 ## 📈 Contribution Graph
 
