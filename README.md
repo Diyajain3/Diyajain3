@@ -7,13 +7,11 @@
 </a>
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/diya30jain/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya30jain/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diyajain3)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]((https://leetcode.com/u/Diya30jain/))
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Diya30jain/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Diya30jain)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyajain3003@gmail.com)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diyajain3003&color=C084FC&style=flat-square&label=Profile+Views)
@@ -28,7 +26,7 @@
 const diya = {
   name        : "Diya Jain",
   degree      : "B.Tech Computer Science @ KCC Institute of Technology",
-  cgpa        : 9.0,
+  cgpa        : 8.7,
   location    : "Greater Noida, India 🇮🇳",
   contact     : "diyajain3003@gmail.com | +91-7879963982",
   roles       : ["Full-Stack Developer", "Frontend Dev Intern @ CodeAlpha"],
@@ -47,7 +45,7 @@ const diya = {
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
 | 🎓 B.Tech – Computer Science | KCC Institute of Technology & Management, Greater Noida | 2023 – 2027 | **CGPA: 9.0** |
-| 📚 Class XII | Model Senior Secondary School, Bhind | 2022 | **88.2%** |
+
 
 ---
 
@@ -56,8 +54,7 @@ const diya = {
 <div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)gu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -103,7 +100,7 @@ const diya = {
 - 🗄️ MongoDB for persistent data storage
 - ⚡ Seamless React-powered UI interactions
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Diyajain3/Quorix-Chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -118,40 +115,11 @@ const diya = {
 - 🎯 High-fidelity recreation of complex interactions
 - 💅 Clean, maintainable component architecture
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Diyajain3/Recreates_thirtySixStudio_Webiste)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Website
-> *Showcasing projects & skills*
-
-**Stack:** HTML · CSS · JavaScript
-
-- 🎨 Custom responsive design
-- 📂 Project showcase with clean layout
-- 🌙 Attention to UX and visual hierarchy
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ Image Gallery *(CodeAlpha Internship)*
-> *Responsive gallery built during internship*
-
-**Stack:** HTML · CSS · JavaScript
-
-- 🖼️ Responsive grid-based image gallery
-- 📐 Focused on UI design & clean code
-- 📱 Mobile-first responsive approach
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com)
-
-</td>
-</tr>
 </table>
 </div>
 
@@ -189,9 +157,9 @@ const diya = {
 
 <div align="center">
 
-[![Deloitte](https://img.shields.io/badge/Technology_Consulting_Virtual_Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://forage.com)
-[![EA](https://img.shields.io/badge/Software_Engineering_Virtual_Experience-FF4655?style=for-the-badge&logo=ea&logoColor=white)](https://forage.com)
-[![Google Cloud](https://img.shields.io/badge/Share_Data_Using_Google_Data_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Deloitte](https://img.shields.io/badge/Technology_Consulting_Virtual_Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_38dtDTjFCd6FjScgv_1753764125248_completion_certificate.pdf)
+[![EA](https://img.shields.io/badge/Software_Engineering_Virtual_Experience-FF4655?style=for-the-badge&logo=ea&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_38dtDTjFCd6FjScgv_1753605121984_completion_certificate.pdf)
+[![Google Cloud](https://img.shields.io/badge/Share_Data_Using_Google_Data_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whitehttps://www.skills.google/public_profiles/7fd8a0c2-1425-4c83-a4b9-4be004181b61/badges/17767196)
 [![TCS](https://img.shields.io/badge/Career_Edge_Young_Professional-500057?style=for-the-badge&logoColor=white)](https://tcsion.com)
 
 </div>
@@ -202,13 +170,14 @@ const diya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyajain3003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
 
-<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyajain3&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
+</div>
 
+<div align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyajain3&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
 </div>
 
 ---
@@ -216,7 +185,7 @@ const diya = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 ---
@@ -224,7 +193,7 @@ const diya = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&bg_color=0D1117&color=C084FC&line=C084FC&point=FF6B6B&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&bg_color=0D1117&color=C084FC&line=C084FC&point=FF6B6B&area=true&hide_border=true" />
 </div>
 
 ---
@@ -235,7 +204,7 @@ const diya = {
 
 *Open to collaborations, full-stack projects, and hackathon opportunities.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya30jain/)
 [![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyajain3003@gmail.com)
 
 <br/>
