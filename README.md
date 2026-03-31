@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/diya30jain/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/diya30jain/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diyajain3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]((https://leetcode.com/u/Diya30jain/))
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
@@ -202,12 +202,12 @@ const diya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyajain3003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyajain3003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diyajain3003&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyajain3&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
 
 </div>
 
@@ -216,7 +216,7 @@ const diya = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diyajain3003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -224,7 +224,7 @@ const diya = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diyajain3003&bg_color=0D1117&color=C084FC&line=C084FC&point=FF6B6B&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&bg_color=0D1117&color=C084FC&line=C084FC&point=FF6B6B&area=true&hide_border=true" />
 </div>
 
 ---
