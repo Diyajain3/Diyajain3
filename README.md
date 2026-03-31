@@ -54,7 +54,7 @@ const diya = {
 <div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)gu
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -170,14 +170,14 @@ const diya = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyajain3&theme=tokyonight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Diyajain3&theme=tokyonight"/>
 </div>
 
 ---
@@ -185,7 +185,7 @@ const diya = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight" />
 </div>
 
 ---
