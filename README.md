@@ -48,44 +48,7 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,java,js,git,github" />
 </p>
 
----
 
-## 📊 Achievements  
-
-- 🔥 Solved **300+ DSA problems on LeetCode**  
-- 🏆 Hackathons:
-  - Hack4Impact @ IIIT Delhi  
-  - HackIndia Spark 4 @ KCC  
-
----
-
-## 💼 Experience  
-
-🚀 **Frontend Developer Intern @ CodeAlpha**  
-💻 **Full-Stack Developer (MERN)**  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p>
-  <a href="mailto:diyajain3003@gmail.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> |
-  <a href="https://github.com/your-username">💻 GitHub</a>
-</p>
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
 ---
 
 ## 🎓 Education
