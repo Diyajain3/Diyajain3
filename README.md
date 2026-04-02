@@ -20,24 +20,72 @@
 
 ---
 
-## 👩‍💻 About Me
+<h1 align="center">Hi 👋, I'm Diya Jain</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
-```javascript
-const diya = {
-  name        : "Diya Jain",
-  degree      : "B.Tech Computer Science @ KCC Institute of Technology",
-  cgpa        : 8.7,
-  location    : "Greater Noida, India 🇮🇳",
-  contact     : "diyajain3003@gmail.com | +91-7879963982",
-  roles       : ["Full-Stack Developer", "Frontend Dev Intern @ CodeAlpha"],
-  stack       : ["MERN", "React", "Tailwind CSS", "Java", "Node.js"],
-  dsaStreak   : "300+ problems solved on LeetCode 🔥",
-  hackathons  : ["Hack4Impact @ IIIT Delhi", "HackIndia Spark 4 @ KCC"],
-  passions    : ["Scalable Web Apps", "Clean UI", "Problem Solving"],
-  funFact     : "I build health-tech at hackathons & chatbots in my free time 💡",
-};
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+---
+
+## 👩‍💻 About Me  
+
+🎓 B.Tech Computer Science @ **KCC Institute of Technology**  
+📍 Greater Noida, India 🇮🇳  
+💡 Passionate about **Scalable Web Apps & Clean UI**  
+
+- 🔭 Currently working on **MERN Projects**  
+- 🌱 Learning **Advanced Backend & System Design**  
+- 💬 Ask me about **React, Java, DSA**  
+- ⚡ Fun fact: I build **health-tech apps & chatbots**  
+
+---
+
+## 🚀 Tech Stack  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,java,js,git,github" />
+</p>
+
+---
+
+## 📊 Achievements  
+
+- 🔥 Solved **300+ DSA problems on LeetCode**  
+- 🏆 Hackathons:
+  - Hack4Impact @ IIIT Delhi  
+  - HackIndia Spark 4 @ KCC  
+
+---
+
+## 💼 Experience  
+
+🚀 **Frontend Developer Intern @ CodeAlpha**  
+💻 **Full-Stack Developer (MERN)**  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p>
+  <a href="mailto:diyajain3003@gmail.com">📧 Email</a> |
+  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> |
+  <a href="https://github.com/your-username">💻 GitHub</a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
 ---
 
 ## 🎓 Education
