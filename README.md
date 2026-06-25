@@ -37,8 +37,7 @@
 
 - 🔭 Currently working on **MERN Projects**  
 - 🌱 Learning **Advanced Backend & System Design**  
-- 💬 Ask me about **React, Java, DSA**  
-- ⚡ Fun fact: I build **health-tech apps & chatbots**  
+- 💬 Ask me about **React, Java, DSA**   
 
 ---
 
@@ -98,6 +97,41 @@
 
 <div align="center">
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Snap Resume
+> *Smart resume builder with real-time preview*
+
+**Stack:** React · Node.js · MongoDB · Tailwind CSS
+
+- 📝 Drag-and-drop resume builder interface
+- 👁️ Real-time PDF preview & customization
+- 🎨 Multiple professional templates
+- ⬇️ One-click PDF download functionality
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Diyajain3/SnapResume)
+[![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://snap-resume-mazt.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ Trick Task
+> *Intuitive task management & productivity app*
+
+**Stack:** React · Express.js · MongoDB · Tailwind CSS
+
+- 📋 Smart task organization & filtering
+- 🎯 Priority-based task sorting
+- ✨ Smooth animations & intuitive UX
+- 🔄 Real-time updates & persistence
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Diyajain3/TrickTask)
+[![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://tricktask.onrender.com/)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -170,7 +204,7 @@
 
 [![Deloitte](https://img.shields.io/badge/Technology_Consulting_Virtual_Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_38dtDTjFCd6FjScgv_1753764125248_completion_certificate.pdf)
 [![EA](https://img.shields.io/badge/Software_Engineering_Virtual_Experience-FF4655?style=for-the-badge&logo=ea&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/j43dGscQHtJJ57N54/a77WE3de8qrxWferQ_j43dGscQHtJJ57N54_38dtDTjFCd6FjScgv_1753605121984_completion_certificate.pdf)
-[![Google Cloud](https://img.shields.io/badge/Share_Data_Using_Google_Data_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whitehttps://www.skills.google/public_profiles/7fd8a0c2-1425-4c83-a4b9-4be004181b61/badges/17767196)
+[![Google Cloud](https://img.shields.io/badge/Share_Data_Using_Google_Data_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.skills.google/public_profiles/7fd8a0c2-1425-4c83-a4b9-4be004181b61/badges/17767196)
 [![TCS](https://img.shields.io/badge/Career_Edge_Young_Professional-500057?style=for-the-badge&logoColor=white)](https://tcsion.com)
 
 </div>
