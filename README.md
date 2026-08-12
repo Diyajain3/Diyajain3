@@ -1,4 +1,6 @@
 
+<p align="center">
+  
 Claude finished the response
 
 Ran a command
@@ -98,9 +100,75 @@ Image · SVG
 Claude is AI and can make mistakes. Please double-check responses.
 
 
-Profile readme · MD
-<p align="center">
-  <img src="./assets/coding-girl.png" alt="Illustration of a girl with glasses writing on a laptop" width="360" />
+Coding girl · SVG
+<svg width="700" height="440" viewBox="0 0 700 440" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Illustration of a girl with glasses writing on a laptop</title>
+  <desc>A doodle-style illustration of a girl with curly hair and glasses, wearing an orange sweater, leaning over a laptop and writing with a pen. A small plant sits on a stand beside her.</desc>
+ 
+  <rect x="0" y="0" width="700" height="440" fill="#ffffff"/>
+ 
+  <g stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 210 130
+             C 195 90 220 55 265 45
+             C 300 20 350 25 375 55
+             C 410 45 435 75 425 105
+             C 445 120 445 150 425 165
+             C 435 190 415 210 390 205
+             C 385 225 360 235 340 220
+             C 320 235 295 225 290 205
+             C 265 210 245 195 245 170
+             C 220 165 200 145 210 130 Z" fill="#7a4a2b"/>
+ 
+    <ellipse cx="330" cy="185" rx="90" ry="95" fill="#f4c9a1"/>
+ 
+    <path d="M 250 150 C 245 110 275 85 330 88 C 385 85 415 115 408 155" fill="#5c3419"/>
+ 
+    <circle cx="295" cy="185" r="32" fill="#ffffff"/>
+    <circle cx="368" cy="185" r="32" fill="#ffffff"/>
+    <line x1="327" y1="182" x2="336" y2="182"/>
+    <line x1="263" y1="182" x2="248" y2="178"/>
+    <line x1="400" y1="182" x2="415" y2="178"/>
+    <circle cx="295" cy="185" r="10" fill="#1a1a1a" stroke="none"/>
+    <circle cx="368" cy="185" r="10" fill="#1a1a1a" stroke="none"/>
+ 
+    <path d="M 310 232 Q 330 244 350 232" stroke-width="4"/>
+ 
+    <path d="M 300 245 C 250 255 200 300 195 350 L 200 405 L 470 405 L 462 345 C 452 295 415 258 370 245 Z" fill="#e8792c"/>
+ 
+    <path d="M 300 245 L 330 275 L 360 245" fill="#f4c9a1" stroke-width="4"/>
+ 
+    <path d="M 205 350 C 220 320 250 300 280 305 L 290 340 L 235 385 Z" fill="#e8792c"/>
+    <path d="M 458 350 C 445 315 415 298 388 305 L 378 340 L 430 385 Z" fill="#e8792c"/>
+ 
+    <path d="M 220 385 C 235 372 258 372 268 384" fill="#f4c9a1" stroke-width="4"/>
+    <path d="M 400 385 C 388 372 365 372 355 384" fill="#f4c9a1" stroke-width="4"/>
+ 
+    <path d="M 258 388 L 285 372 L 292 380 L 266 397 Z" fill="#f0a93a"/>
+    <line x1="288" y1="375" x2="300" y2="366" stroke-width="4"/>
+ 
+    <rect x="185" y="392" width="290" height="14" rx="4" fill="#c9c9c9" stroke="none"/>
+ 
+    <path d="M 190 400 L 320 400 L 300 335 L 210 335 Z" fill="#ffffff"/>
+    <line x1="222" y1="360" x2="270" y2="360" stroke-width="3"/>
+    <line x1="226" y1="374" x2="260" y2="374" stroke-width="3"/>
+    <path d="M 235 348 L 241 354 L 253 342" stroke="#e8792c" stroke-width="3"/>
+ 
+    <path d="M 330 335 L 470 335 L 468 400 L 322 400 Z" fill="#f5f5f5"/>
+  </g>
+ 
+  <g stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 560 260 C 540 260 540 300 555 320 L 605 320 C 622 300 620 260 600 260 Z" fill="#3f9c53"/>
+    <path d="M 562 262 C 552 270 552 300 562 316" stroke="#2f7a3f" stroke-width="3"/>
+    <rect x="545" y="320" width="70" height="55" rx="4" fill="#c65b8a"/>
+    <line x1="545" y1="340" x2="615" y2="340" stroke-width="3"/>
+  </g>
+ 
+  <text x="640" y="90" font-family="monospace" font-size="26" fill="#e8792c">{ }</text>
+  <text x="60" y="90" font-family="monospace" font-size="24" fill="#3f9c53">&lt;/&gt;</text>
+  <text x="45" y="260" font-family="monospace" font-size="20" fill="#c65b8a">01</text>
+  <text x="620" y="230" font-family="monospace" font-size="20" fill="#4a7fc9">#</text>
+</svg>
+ width="360" />
 </p>
 <h1 align="center">Hey 👋, I'm Diya Jain</h1>
 <p align="center"><em>Full-Stack Developer building AI-powered, real-world web apps</em></p>
