@@ -2,6 +2,10 @@
 <p align="center"><em>Full-Stack Developer | Building AI-powered, real-world web apps</em></p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="450" alt="Coding animation" />
+</p>
+
+<p align="center">
   <a href="https://diyajain.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diyajain.vercel.app-1b1730?style=flat-square&logo=vercel&logoColor=fff" /></a>
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=fff" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
@@ -113,15 +117,11 @@ I'm a full-stack developer who builds products end-to-end — from schema design
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&theme=tokyo-night&hide_border=true&area=true" alt="Diya's daily commit activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Diya's daily commit activity graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/Diyajain3" alt="Diya's GitHub commit calendar" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
