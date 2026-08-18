@@ -28,7 +28,7 @@
 | 🟢 **Availability** | Immediate |
 | 🧰 **Core stack** | React · Node.js · Express · PostgreSQL · Prisma · MongoDB |
 | 📄 **Resume** | [Download PDF](https://diyajain.vercel.app/resume.pdf) |
-| ✉️ **Best way to reach me** | [Email](mailto:youremail@example.com) · [LinkedIn](https://www.linkedin.com/in/your-linkedin/) |
+| ✉️ **Best way to reach me** | [Email](mailto:youremail@example.com) · [LinkedIn](https://www.linkedin.com/in/diya30jain/) |
 
 ---
 
