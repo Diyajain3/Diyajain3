@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://diyajain.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diyajain.vercel.app-1b1730?style=flat-square&logo=vercel&logoColor=fff" /></a>
+  <a href="https://diyajain.vercel.app/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-orange?style=flat-square&logo=readdotcv&logoColor=fff" /></a>
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=fff" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
   <a href="https://github.com/Diyajain3"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Diyajain3?style=flat-square&logo=github&label=Followers" /></a>
@@ -18,11 +19,29 @@
 
 ---
 
+### 🎯 Quick Facts — *for recruiters in a hurry*
+
+| | |
+|---|---|
+| 💼 **Looking for** | Full-Stack Developer / Software Developer (Entry–Mid level) |
+| 🌍 **Location / Work mode** | Remote / Hybrid / On-site *(edit to your preference)* |
+| 🟢 **Availability** | Immediate |
+| 🧰 **Core stack** | React · Node.js · Express · PostgreSQL · Prisma · MongoDB |
+| 📄 **Resume** | [Download PDF](https://diyajain.vercel.app/resume.pdf) |
+| ✉️ **Best way to reach me** | [Email](mailto:youremail@example.com) · [LinkedIn](https://www.linkedin.com/in/your-linkedin/) |
+
+---
+
 ### 🚀 About Me
 
 I'm a full-stack developer who builds products end-to-end — from schema design to shipped UI. Most of my projects pair a React frontend with a Node/Express backend, and use AI where it genuinely makes the product smarter, not just for the sake of it. I care about clean, honest UX and code that's easy to pick back up six months later.
 
-- 🎯 **Actively looking for full-stack / software developer roles**
+**What I bring to a team:**
+- ✅ Ship complete features solo — database schema, API, and UI — not just one layer
+- ✅ Comfortable picking up new tools fast (recent projects span MERN, Prisma/PostgreSQL, and LLM APIs)
+- ✅ Write code for the next person to read, not just to make it work
+- ✅ Every project below is live and linked — nothing here is vaporware
+
 - 🔭 Currently building and polishing full-stack side projects
 - 🌱 Sharpening backend fundamentals — auth, databases, and API design
 - 💬 Ask me about React, Express, Prisma, or PostgreSQL
@@ -56,7 +75,7 @@ I'm a full-stack developer who builds products end-to-end — from schema design
   <tr>
     <td width="50%" valign="top">
       <h3>🛍️ Your Second Opinion</h3>
-      <p>AI-powered review & fake-review analyzer. Paste product reviews and get an authenticity score, genuine pros/cons, red flags, and side-by-side product comparisons.</p>
+      <p><strong>Built</strong> an AI-powered fake-review detector using the Gemini API — users paste reviews and get an authenticity score, genuine pros/cons, red flags, and side-by-side product comparisons in seconds.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff" />
@@ -68,7 +87,7 @@ I'm a full-stack developer who builds products end-to-end — from schema design
     </td>
     <td width="50%" valign="top">
       <h3>📄 SnapResume</h3>
-      <p>AI-powered MERN resume builder with ATS analysis, secure authentication, professional templates, and full resume management.</p>
+      <p><strong>Built</strong> a full MERN resume builder with AI-driven ATS analysis, secure auth, professional templates, and end-to-end resume management — from database schema to deployed UI.</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff" />
@@ -82,7 +101,7 @@ I'm a full-stack developer who builds products end-to-end — from schema design
   <tr>
     <td width="50%" valign="top">
       <h3>✅ TrickTask</h3>
-      <p>Full-stack task manager with smart categorization, progress tracking, and real-time updates for a simple but powerful productivity workflow.</p>
+      <p><strong>Built</strong> a full-stack task manager with smart categorization, progress tracking, and real-time updates — designed for a simple, fast productivity workflow.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff" />
@@ -126,4 +145,14 @@ I'm a full-stack developer who builds products end-to-end — from schema design
 
 ---
 
-<p align="center"><em>Thanks for stopping by — check out a project above, or say hi through my portfolio 👋</em></p>
+### 📬 Let's Talk
+
+I'm actively interviewing for full-stack / software developer roles and can start immediately. If my work looks like a fit, I'd love to chat.
+
+<p align="center">
+  <a href="https://diyajain.vercel.app/resume.pdf"><img alt="Download Resume" src="https://img.shields.io/badge/📄_Download_Resume-orange?style=for-the-badge" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Email Me" src="https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge" /></a>
+</p>
+
+<p align="center"><em>Thanks for stopping by — every project above is live and linked, so feel free to click around 👋</em></p>
