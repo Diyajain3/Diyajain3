@@ -1,24 +1,33 @@
-
 <h1 align="center">Hey 👋, I'm Diya Jain</h1>
-<p align="center"><em>Full-Stack Developer building AI-powered, real-world web apps</em></p>
+<p align="center"><em>Full-Stack Developer | Building AI-powered, real-world web apps</em></p>
+
 <p align="center">
   <a href="https://diyajain.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diyajain.vercel.app-1b1730?style=flat-square&logo=vercel&logoColor=fff" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
   <a href="https://github.com/Diyajain3"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Diyajain3?style=flat-square&logo=github&label=Followers" /></a>
 </p>
+
+<p align="center">
+  <img alt="Open to work" src="https://img.shields.io/badge/Open_to-Full--Stack_%2F_Software_Dev_Roles-2ea44f?style=for-the-badge" />
+</p>
+
 ---
- 
+
 ### 🚀 About Me
- 
-I'm a full-stack developer who likes building products end-to-end — from schema design to shipped UI. Most of my projects combine a React frontend, a Node/Express backend, and AI where it genuinely makes the product smarter (not just for the sake of it). I care about clean, honest UX and code that's easy to pick back up six months later.
- 
+
+I'm a full-stack developer who builds products end-to-end — from schema design to shipped UI. Most of my projects pair a React frontend with a Node/Express backend, and use AI where it genuinely makes the product smarter, not just for the sake of it. I care about clean, honest UX and code that's easy to pick back up six months later.
+
+- 🎯 **Actively looking for full-stack / software developer roles**
 - 🔭 Currently building and polishing full-stack side projects
 - 🌱 Sharpening backend fundamentals — auth, databases, and API design
 - 💬 Ask me about React, Express, Prisma, or PostgreSQL
-- 📫 Reach me through my [portfolio](https://diyajain.vercel.app/)
+- 📫 Reach me through my [portfolio](https://diyajain.vercel.app/) or the badges above
+
 ---
- 
+
 ### 🛠️ Tech Stack
- 
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
@@ -34,14 +43,15 @@ I'm a full-stack developer who likes building products end-to-end — from schem
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" />
 </p>
+
 ---
- 
+
 ### 📌 Featured Projects
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Diyajain3/Your-second-opinion">🛍️ Your Second Opinion</a></h3>
+      <h3>🛍️ Your Second Opinion</h3>
       <p>AI-powered review & fake-review analyzer. Paste product reviews and get an authenticity score, genuine pros/cons, red flags, and side-by-side product comparisons.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
@@ -49,10 +59,11 @@ I'm a full-stack developer who likes building products end-to-end — from schem
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff" />
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff" />
       </p>
-      <a href="https://your-second-opinion.vercel.app">🔗 Live demo</a>
+      <a href="https://github.com/Diyajain3/Your-second-opinion"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=fff" /></a>
+      <a href="https://your-second-opinion.vercel.app"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=vercel&logoColor=fff" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Diyajain3/SnapResume">📄 SnapResume</a></h3>
+      <h3>📄 SnapResume</h3>
       <p>AI-powered MERN resume builder with ATS analysis, secure authentication, professional templates, and full resume management.</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
@@ -60,44 +71,59 @@ I'm a full-stack developer who likes building products end-to-end — from schem
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
       </p>
+      <a href="https://github.com/Diyajain3/SnapResume"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=fff" /></a>
+      <a href="#"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo_Coming_Soon-lightgrey?style=flat-square&logo=vercel&logoColor=fff" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Diyajain3/TrickTask">✅ TrickTask</a></h3>
+      <h3>✅ TrickTask</h3>
       <p>Full-stack task manager with smart categorization, progress tracking, and real-time updates for a simple but powerful productivity workflow.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff" />
       </p>
-      <a href="https://tricktask.onrender.com">🔗 Live demo</a>
+      <a href="https://github.com/Diyajain3/TrickTask"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=fff" /></a>
+      <a href="https://tricktask.onrender.com"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=render&logoColor=fff" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Diyajain3/My_Portfolio">🌐 My Portfolio</a></h3>
+      <h3>🌐 My Portfolio</h3>
       <p>My personal developer portfolio — showcasing projects, skills, and how to get in touch.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
       </p>
-      <a href="https://diyajain.vercel.app/">🔗 Live site</a>
+      <a href="https://github.com/Diyajain3/My_Portfolio"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=fff" /></a>
+      <a href="https://diyajain.vercel.app/"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=vercel&logoColor=fff" /></a>
     </td>
   </tr>
 </table>
+
 ---
- 
-### 📊 GitHub Stats
- 
+
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&hide_border=true" alt="Diya's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diya's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyajain3&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&theme=tokyo-night&hide_border=true&area=true" alt="Diya's daily commit activity graph" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea44f/Diyajain3" alt="Diya's GitHub commit calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ---
- 
-<p align="center"><em>Thanks for stopping by — check out a project above or say hi through my portfolio 👋</em></p>
- 
+
+<p align="center"><em>Thanks for stopping by — check out a project above, or say hi through my portfolio 👋</em></p>
