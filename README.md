@@ -127,20 +127,38 @@ I'm a full-stack developer who builds products end-to-end — from schema design
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diya's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Diyajain3&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Diya's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyajain3&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diyajain3&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Diyajain3&theme=tokyonight&hide_border=true"
+    alt="Diya's GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Diya's daily commit activity graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Diyajain3&theme=tokyo-night&hide_border=true&area=true"
+    alt="Diya's GitHub activity graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Diyajain3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    alt="Diya's GitHub trophies"
+  />
 </p>
 
 ---
