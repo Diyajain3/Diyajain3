@@ -19,8 +19,6 @@
 
 ---
 
-### 🎯 Quick Facts — *for recruiters in a hurry*
-
 | | |
 |---|---|
 | 💼 **Looking for** | Full-Stack Developer / Software Developer (Entry–Mid level) |
