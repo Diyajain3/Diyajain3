@@ -95,7 +95,7 @@ I'm a full-stack developer who builds products end-to-end — from schema design
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
       </p>
       <a href="https://github.com/Diyajain3/SnapResume"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=fff" /></a>
-      <a href="#"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo_Coming_Soon-lightgrey?style=flat-square&logo=vercel&logoColor=fff" /></a>
+      <a href="https://snap-resume-xi.vercel.app/"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo_Coming_Soon-lightgrey?style=flat-square&logo=vercel&logoColor=fff" /></a>
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ I'm a full-stack developer who builds products end-to-end — from schema design
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff" />
       </p>
       <a href="https://github.com/Diyajain3/TrickTask"><img alt="Repo" src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=fff" /></a>
-      <a href="https://tricktask.onrender.com"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=render&logoColor=fff" /></a>
+      <a href="https://trick-task.vercel.app/"><img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square&logo=render&logoColor=fff" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 My Portfolio</h3>
