@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://diyajain.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diyajain.vercel.app-1b1730?style=flat-square&logo=vercel&logoColor=fff" /></a>
-  <a href="https://diyajain.vercel.app/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-orange?style=flat-square&logo=readdotcv&logoColor=fff" /></a>
+  <a href="https://drive.google.com/file/d/1KjdWW5yJ3QYr4WjascGxT1VWOdRk16x4/view?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-orange?style=flat-square&logo=readdotcv&logoColor=fff" /></a>
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=fff" /></a>
   <a href="https://www.linkedin.com/in/diya30jain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
   <a href="https://github.com/Diyajain3"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Diyajain3?style=flat-square&logo=github&label=Followers" /></a>
@@ -27,7 +27,7 @@
 | 🌍 **Location / Work mode** | Remote / Hybrid / On-site [Noida,Delhi,Gurugram,Greater Noida,Ghaziabad] |
 | 🟢 **Availability** | Immediate |
 | 🧰 **Core stack** | React · Node.js · Express · PostgreSQL · Prisma · MongoDB |
-| 📄 **Resume** | [Download PDF](https://diyajain.vercel.app/resume.pdf) |
+| 📄 **Resume** | [Download PDF](https://drive.google.com/file/d/1KjdWW5yJ3QYr4WjascGxT1VWOdRk16x4/view?usp=drive_link) |
 | ✉️ **Best way to reach me** | [Email](mailto:youremail@example.com) · [LinkedIn](https://www.linkedin.com/in/diya30jain/) |
 
 ---
