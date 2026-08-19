@@ -24,7 +24,7 @@
 | 💼 **Looking for** | Full-Stack Developer / Software Developer (Entry–Mid level) |
 | 🌍 **Location / Work mode** | Remote / Hybrid / On-site [Noida,Delhi,Gurugram,Greater Noida,Ghaziabad] |
 | 🟢 **Availability** | Immediate |
-| 🧰 **Core stack** | React · Node.js · Express · PostgreSQL · Prisma · MongoDB |
+| 🧰 **Core stack** | React · Node.js · Express · PostgreSQL · MongoDB |
 | 📄 **Resume** | [Download PDF](https://drive.google.com/file/d/1KjdWW5yJ3QYr4WjascGxT1VWOdRk16x4/view?usp=drive_link) |
 | ✉️ **Best way to reach me** | [Email](mailto:diyajain3003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diya30jain/) |
 
