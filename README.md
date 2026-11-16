@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://diyajain.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diyajain.vercel.app-1b1730?style=flat-square&logo=vercel&logoColor=fff" /></a>
-  <a href="https://drive.google.com/file/d/1KjdWW5yJ3QYr4WjascGxT1VWOdRk16x4/view?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-orange?style=flat-square&logo=readdotcv&logoColor=fff" /></a>
+  <a href="https://drive.google.com/file/d/1h_0L-3R140Lc2oxmOkllfY1FnlNftTvH/view?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download_PDF-orange?style=flat-square&logo=readdotcv&logoColor=fff" /></a>
   <a href="mailto:diyajain3003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=fff" /></a>
   <a href="https://www.linkedin.com/in/diya30jain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
   <a href="https://github.com/Diyajain3"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Diyajain3?style=flat-square&logo=github&label=Followers" /></a>
@@ -145,9 +145,9 @@ I'm a full-stack developer who builds products end-to-end — from schema design
 I'm actively interviewing for full-stack / software developer roles and can start immediately. If my work looks like a fit, I'd love to chat.
 
 <p align="center">
-  <a href="https://diyajain.vercel.app/resume.pdf"><img alt="Download Resume" src="https://img.shields.io/badge/📄_Download_Resume-orange?style=for-the-badge" /></a>
+  <a href="https://drive.google.com/file/d/1h_0L-3R140Lc2oxmOkllfY1FnlNftTvH/view?usp=drive_link"><img alt="Download Resume" src="https://img.shields.io/badge/📄_Download_Resume-orange?style=for-the-badge" /></a>
   <a href="mailto:youremail@example.com"><img alt="Email Me" src="https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/diya30jain/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge" /></a>
 </p>
 
 <p align="center"><em>Thanks for stopping by — every project above is live and linked, so feel free to click around 👋</em></p>
