@@ -25,7 +25,7 @@
 | 🌍 **Location / Work mode** | Remote / Hybrid / On-site [Noida,Delhi,Gurugram,Greater Noida,Ghaziabad] |
 | 🟢 **Availability** | Immediate |
 | 🧰 **Core stack** | React · Node.js · Express · PostgreSQL · MongoDB |
-| 📄 **Resume** | [Download PDF](https://drive.google.com/file/d/1KjdWW5yJ3QYr4WjascGxT1VWOdRk16x4/view?usp=drive_link) |
+| 📄 **Resume** | [Download PDF](https://drive.google.com/file/d/1h_0L-3R140Lc2oxmOkllfY1FnlNftTvH/view?usp=sharing) |
 | ✉️ **Best way to reach me** | [Email](mailto:diyajain3003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diya30jain/) |
 
 ---
